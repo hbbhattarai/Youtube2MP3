@@ -1,30 +1,23 @@
-This project was bootstrapped with [vite](https://vitejs.dev/guide/#scaffolding-your-first-vite-project).
+🎵 Turn Your Favorite YouTube Music Into MP3! 🎧
 
-<ins>App Preview</ins>
-![Project Preview](src/images/youtubemp3.png)
+Tired of searching for MP3 versions of your favorite YouTube songs? Look no further! Introducing YouTube2MP3 - Your Ultimate Music Conversion Destination! 🎉
 
-## Available Scripts
+🔥 With YouTube2MP3, you can:
+🎶 Convert YouTube videos to high-quality MP3 audio files
+⏱️ Save time by downloading audio tracks in seconds
+📱 Use our user-friendly website on any device
+💿 Build your music library without breaking the bank
 
-In the project directory, you can run:
+Get started now:
+👉 Visit 
+👉 Copy and paste your YouTube video URL
+👉 Click "Convert" - It's that simple!
 
-### `npm install`
+🎁 But that's not all! We're offering a SPECIAL PROMOTION for our Facebook friends! 🤩
+🎉 For a limited time, enjoy 20% OFF your first conversion! Use code "Y2M20" at checkout. 🎉
 
-Instal All dependencies in this project
+Don't miss out on this opportunity to create the ultimate music collection. Share this post with your friends and let them in on the secret too! 🎵
 
-### `npm run dev`
+Disclaimer: Please ensure you have the necessary permissions to download copyrighted content. YouTube2MP3 does not endorse or support the unauthorized downloading of copyrighted materials.
 
-Runs the app in the development mode.<br />
-Open [http://127.0.0.1:5173](http://127.0.0.1:5173) to view it in the browser.
-
-### Link
-
-- rapidApi - https://rapidapi.com/ytjar/api/youtube-mp36/
-- vite - https://vitejs.dev/guide/#scaffolding-your-first-vite-project
-- google font - https://fonts.google.com/
-- css gradient - https://cssgradient.io/gradient-backgrounds/
-- create env variable in vite - https://vitejs.dev/guide/env-and-mode.html
-- function for get id from youtube url - https://stackoverflow.com/questions/3452546/how-do-i-get-the-youtube-video-id-from-a-url
-
-### Video Tutorial
-
-You can see my youtube video for this project in [here](https://youtu.be/TFX19GQ8LMQ)
+#YouTube2MP3 #MusicConversion #MP3Downloads #MusicLovers #SpecialOffer
